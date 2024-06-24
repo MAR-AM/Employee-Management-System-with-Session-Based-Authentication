@@ -1,6 +1,6 @@
 <?php 
 
-        $conx  = new PDO('mysql:host=localhost; dbname=voyage_organise','Mama','Mama@123@');
+        $conx  = new PDO('mysql:host=localhost; dbname=voyage_organise','root','');
 
         // if ($conn) {
         //     echo'connected';
